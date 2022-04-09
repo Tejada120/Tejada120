@@ -1,0 +1,5 @@
+- 🇪🇸 Español
+- 👋 Discord: shield#0001
+- 👀 ParadyseRP: https://discord.gg/8GkBhp3P73
+- 🌱 Learning JS
+- 💞️ Programator of Lua and JS (a little bit)
